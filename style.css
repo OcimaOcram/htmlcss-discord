@@ -131,6 +131,7 @@
   }
 
 .second-container {
+    min-width: 1200px;
     width: 70%;
     height: 75vh;
     margin: auto;
